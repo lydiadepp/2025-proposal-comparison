@@ -122,9 +122,9 @@ const WageComparison = () => {
         
         {/* Header Section */}
         <header className="bg-white rounded-xl shadow-sm p-6 border-l-8 border-blue-600">
-          <h1 className="text-3xl font-bold text-slate-900 flex items-center gap-3">
-            <Calculator className="h-8 w-8 text-blue-600" />
-            Proposal Comparison Tool
+          <h1 className="text-2xl md:text-3xl font-bold text-slate-900 flex items-center gap-3">
+            <Calculator className="h-8 w-8 text-blue-600 shrink-0" />
+            2025 Proposal Comparison Tool For UNAC DASH members
           </h1>
           <p className="mt-2 text-lg text-slate-600">
             See how the difference between the Alliance proposal and the KP proposal impacts your wallet today, and for the rest of your career.
